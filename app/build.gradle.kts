@@ -7,6 +7,10 @@ android {
     namespace = "com.unsoed.informatikamobile"
     compileSdk = 36
 
+    viewBinding {
+        enable = true
+    }
+
     defaultConfig {
         applicationId = "com.unsoed.informatikamobile"
         minSdk = 24
