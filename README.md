@@ -21,3 +21,16 @@
 
 ## Tampilan Aplikasi
 ![Screenshot Tampilan Aplikasi](Tugas_2_Pertemuan_3.gif)
+
+---
+
+# Tugas 3 Pertemuan 4
+
+## Identitas
+- Nama: Athallah Tsany Satriyaji
+- NIM: H1D023013
+- Shift: A
+- Shift KRS: A
+
+## Tampilan Aplikasi
+![Screenshot Tampilan Aplikasi](Tugas_3_Pertemuan_4.gif)
